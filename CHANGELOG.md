@@ -5,6 +5,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
+_Nothing yet_
+
+## [v1.3.1] - 2026-07-20
 - Bump tj-actions/changed-files from 42.1.0 to 47.0.6 (fgrosse/go-coverage-report#82)
 - Fix the `::endgroup::` marker never being emitted, which left all GitHub Actions log groups of this action open (fgrosse/go-coverage-report#89)
 
@@ -36,7 +39,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [v1.0.0] - 2024-03-18
 - Initial release
 
-[Unreleased]: https://github.com/fgrosse/go-coverage-report/compare/v1.3.0...HEAD
+[Unreleased]: https://github.com/fgrosse/go-coverage-report/compare/v1.3.1...HEAD
+[v1.3.1]: https://github.com/fgrosse/go-coverage-report/compare/v1.3.0...v1.3.1
 [v1.3.0]: https://github.com/fgrosse/go-coverage-report/compare/v1.2.0...v1.3.0
 [v1.2.0]: https://github.com/fgrosse/go-coverage-report/compare/v1.1.1...v1.2.0
 [v1.1.1]: https://github.com/fgrosse/go-coverage-report/compare/v1.1.0...v1.1.1
